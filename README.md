@@ -1,3 +1,8 @@
+> **This repository has moved.** Development continues in
+> [tw050x/smartsuite](https://github.com/tw050x/smartsuite), under
+> [`apps/smartplan`](https://github.com/tw050x/smartsuite/tree/master/apps/smartplan), with this repository's
+> history. This one is kept for its earlier releases and is no longer updated.
+
 # SmartPlan
 
 A Mac app for planning work on boards of lists and cards, as Trello's are, with your own AI and
